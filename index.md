@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: David Whipp's CV
+title: Yannick Rousselot's CV
 ---
-# David Whipp
-Professor, University of Helsinki
+# Yannick Rousselot
+Postdoc, University of Bern
 
-Institute of Seismology, Department of Geosciences and Geography<br/>
-P.O. Box 68 (Pietari Kalmin katu 5)<br/>
-FI-00014 University of Helsinki, Finland<br/>
+IIstitute of philosophy<br/>
+University of Bern<br/>
+Länggassstrasse 49a, 3012 Bern<br/>
 
 <a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
 
